@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/n-seth/comp2164/static/css/main.7a7d29af.css",
+    "main.js": "/n-seth/comp2164/static/js/main.1212229b.js",
+    "index.html": "/n-seth/comp2164/index.html",
+    "main.7a7d29af.css.map": "/n-seth/comp2164/static/css/main.7a7d29af.css.map",
+    "main.1212229b.js.map": "/n-seth/comp2164/static/js/main.1212229b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a7d29af.css",
+    "static/js/main.1212229b.js"
+  ]
+}

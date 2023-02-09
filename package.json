@@ -11,6 +11,7 @@
     "test": "echo \"Warning: No tests created yet.\"",
     "eject": "react-scripts eject"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/n-seth/comp2164.git"
@@ -21,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/n-seth/comp2164/issues"
   },
-  "homepage": "https://github.com/n-seth/comp2164#readme",
+  "homepage": "https://github.com/n-seth/comp2164#readme" ,
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
@@ -30,10 +31,15 @@
     "travis": "^0.1.1",
     "yarn": "^1.13.0"
   },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
   "browserslist": [
     ">0.2%",
     "not dead",
     "not ie <= 11",
     "not op_mini all"
   ]
+  
+  
 }
